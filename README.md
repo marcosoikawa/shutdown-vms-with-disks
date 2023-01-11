@@ -1,4 +1,4 @@
-# Azure - Update all disk of all VMs to Premium Disks
+# Update all disk of all VMs to Premium Disks
 Powershell script for Azure Automation that shutdown all VMs of a given Resource Group ann also update all disks of VMs to Stardard HDD disk. Good for shutdown your lab. Choose only your target Resource Group
 
 ## Requirements
