@@ -1,5 +1,5 @@
-# Shutdown VMs with converting disks to Stardard HDD
-Powershell script for Azure Automation that shutdown all VMs of a given Resource Group ann also update all disks of VMs to Stardard HDD disk. Good for shutdown your lab. Choose only your target Resource Group
+# Shutdown VMs and convert disks to Stardard HDD
+Powershell script for Azure Automation that shutdown all VMs of a given Resource Group and also update all disks of VMs to Stardard HDD disk. Good for shutdown your lab or dev environment. Choose only your target Resource Group
 
 ## Requirements
 
